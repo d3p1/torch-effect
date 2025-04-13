@@ -1,6 +1,6 @@
 {
   "name": "@d3p1/torch-effect",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A torch effect to improve my JS skills",
   "private": true,
   "type": "module",
